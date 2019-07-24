@@ -8,6 +8,12 @@
     margin-top:207px;
 }
 
+a {
+    color:gray;
+    text-decoration: none;
+    font-size:12px;
+}
+
 .TitleName{
     background-color:#4aaaa5;
     font-family:Georgia, 'Times New Roman', Times, serif;
