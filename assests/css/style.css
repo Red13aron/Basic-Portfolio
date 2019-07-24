@@ -1,10 +1,14 @@
 .Container {
-    background-color: #dddddd;
-    margin:20px;
+    background-image: url("../images/honey_im_subtle.png");
+    widows: 100%;
+    height: 100%;
 }
 
 .WhiteBox1 {
     background-color:#ffffff;
+    width:100%;
+    height:105px;
+    border-bottom:2px #666666 solid;
 }
 
 a {
@@ -19,7 +23,8 @@ a {
     color:#ffffff;
     float:left;
     font-size:24px;
-    margin:50px;
+    margin-left:140px;
+    margin-right:40%;
     padding:40px;
     position: relative;
 }
@@ -41,6 +46,7 @@ a {
 }
 
 #ReverseTeal{
+    margin-left:120px;
     background:#ffffff;
     color:#4aaaa5;
     width:80%;
