@@ -1,3 +1,7 @@
+body{
+    background-image: url("../images/honey_im_subtle.png");
+}
+
 .Container {
     background-image: url("../images/honey_im_subtle.png");
     widows: 100%;
