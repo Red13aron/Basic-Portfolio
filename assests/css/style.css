@@ -6,9 +6,18 @@
     background-color:#ffffff;
 }
 
-h1{
+.TitleName{
     background-color:#4aaaa5;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#ffffff;
+    
 }
+
+#ReverseTeal{
+    background:#ffffff;
+    color:#4aaaa5;
+}
+
 
 .WhiteBox2{
     background-color: #ffffff;
