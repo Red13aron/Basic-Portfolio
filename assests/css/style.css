@@ -1,24 +1,53 @@
 .Container {
     background-color: #dddddd;
+    margin:20px;
 }
 
 .WhiteBox1 {
     background-color:#ffffff;
+    margin-top:207px;
 }
 
 .TitleName{
     background-color:#4aaaa5;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color:#ffffff;
+    float:left;
+    font-size:24px;
+    margin:50px;
+    padding:40px;
+}
+
+.LeftWord {
+    margin:10px;
+    float:right;
     
+}
+
+.CenterWord{
+    float:right;
+    margin:10px;
+}
+
+.RightWord{
+    float:right;
+    margin:10px;
 }
 
 #ReverseTeal{
     background:#ffffff;
     color:#4aaaa5;
+    width:100%;
+
 }
 
 
 .WhiteBox2{
     background-color: #ffffff;
+    clear:both;
+}
+
+.PortfolioImg{
+    width:50px;
+    height:auto;
 }
