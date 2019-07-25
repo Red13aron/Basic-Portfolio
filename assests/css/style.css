@@ -120,7 +120,7 @@ a {
     position:absolute;
     display:block;
     top:0px;
-    right:-230px;
+    right:-260px;
 }
 
 p{
@@ -129,8 +129,9 @@ p{
 }
 
 #AboutMeP{
-    position:absolute;
+    position: relative;;
     top:60px;
+    margin:10px;
     z-index:2;
 }
 
@@ -145,13 +146,17 @@ p{
 }
 
 .PortfolioImg{
-    width:100px;
+    width:120px;
     height:auto;
+    max-height:100%;
+    max-width:100%;
     float:left;
-    position:absolute;
+    position:relative;
     left:0px;
     top:80px;
     z-index:2;
+    padding:10px;
+    margin:10px;
 }
 
 
