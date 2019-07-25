@@ -6,6 +6,7 @@ body{
     background-image: url("../images/honey_im_subtle.png");
     widows: 100%;
     height: 100%;
+    text-align:center;
 }
 
 .WhiteBox1 {
@@ -67,14 +68,24 @@ a {
     color:#4aaaa5;
     width:80%;
     border-bottom: 2px #666666 solid;
+    text-align:left;
+    position:absolute;
+    display:block;
+    top:0px;
+    right:-230px;
 }
 
-
+p{
+    display:block;
+}
 .WhiteBox2{
     background-color: #ffffff;
     clear:both;
+    width:960px;
     height:960px;
     margin:20px;
+    display:inline-block;
+    position: relative;
 }
 
 .PortfolioImg{
