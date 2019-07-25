@@ -138,3 +138,85 @@ p{
     height:auto;
     float:left;
 }
+
+
+#Img1{
+    background:black;
+    width: 300px;
+    height:200px;
+    position:absolute;
+    top:100px;
+    left:20px;
+}
+
+#Img2{
+    background:black;
+    width: 300px;
+    height:200px;
+    position:absolute;
+    top:100px;
+    left:360px;
+}
+
+#Img3{
+    background:black;
+    width: 300px;
+    height:200px;
+    position:absolute;
+    top:340px;
+    left:20px;
+}
+
+#Img4{
+    background:black;
+    width: 300px;
+    height:200px;
+    position:absolute;
+    top:340px;
+    left:360px;
+}
+
+#Img5{
+    background:black;
+    width: 300px;
+    height:200px;
+    position:absolute;
+    top:580px;
+    left:20px;
+}
+
+.Banner{
+    background:#4aaaa5;
+    width:300px;
+    height:40px;
+    position:absolute;
+    z-index:2;
+    line-height:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#ffffff;
+}
+
+#Banner1{
+    top:220px;
+    left:20px;
+}
+
+#Banner2{
+    top:220px;
+    left:360px;
+}
+
+#Banner3{
+    top:460px;
+    left:20px;
+}
+
+#Banner4{
+    top:460px;
+    left:360px;
+}
+
+#Banner5{
+    top:700px;
+    left:20px;
+}
