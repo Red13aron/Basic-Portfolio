@@ -1,12 +1,14 @@
 body{
     background-image: url("../images/honey_im_subtle.png");
+    margin:0px;
 }
 
 .Container {
     background-image: url("../images/honey_im_subtle.png");
-    widows: 100%;
+    width: 100%;
     height: 100%;
     text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 .WhiteBox1 {
@@ -14,6 +16,7 @@ body{
     width:100%;
     height:105px;
     border-bottom:2px #666666 solid;
+    margin:0px;
 }
 
 a {
@@ -122,7 +125,15 @@ a {
 
 p{
     display:block;
+    color:gray;
 }
+
+#AboutMeP{
+    position:absolute;
+    top:60px;
+    z-index:2;
+}
+
 .WhiteBox2{
     background-color: #ffffff;
     clear:both;
@@ -137,6 +148,10 @@ p{
     width:100px;
     height:auto;
     float:left;
+    position:absolute;
+    left:0px;
+    top:80px;
+    z-index:2;
 }
 
 
