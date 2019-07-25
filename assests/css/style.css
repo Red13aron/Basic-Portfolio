@@ -43,6 +43,31 @@ a {
     right:150px;
 }
 
+.ContactForm{
+    position:absolute;
+    top:100px;
+    left:17px;
+    text-align:left;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#777777;
+}
+
+.FormBoxBig{
+    padding:50px;
+    width:600px;
+}
+
+.FormBoxSmall{
+    width:600px;
+    padding:10px;
+}
+
+.ColoredButton{
+    background:#4aaaa5;
+    border-color: #4aaaa5;
+    color:#ffffff;
+}
 .Seperator{
     width:100%;
     height:20px;
